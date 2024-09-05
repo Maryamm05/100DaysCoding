@@ -1,6 +1,6 @@
 public class day004{
   public static void main(String[] args) {
-    System.out.printf("halo semuanya perkenalkan:");
-    System.out.printf("nama saya Maryam dan saya berumur 18 tahun.");
+    System.out.println("Kon'nichiwa minasan:");
+    System.out.printf("watashi no namae wa %s dan watashi no nenrei *d Nen.","Maryam",18);
   }
 }
