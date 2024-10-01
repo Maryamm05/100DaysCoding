@@ -7,7 +7,7 @@ public class tipeDataBigDecimal {
         
         // contoh tipe data reference BigDecimal
         
-        BigDecimal tos = new BigDecimal("153.5");
+        BigDecimal tos = new BigDecimal(153.5);
         System.out.println(" Tinggi badan = " + tos);
     }
 
