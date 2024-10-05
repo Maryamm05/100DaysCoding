@@ -10,7 +10,7 @@ public class inputDariKeyboard {
         System.out.print("Masukan usia anda : ");
         int umur = tes.nextInt();
         
-        System.out.print("Masukan jenis kelamin anda : ");
+        System.out.print("Masukan jenis kelamin anda L/P : ");
         char jk = tes.next().charAt(0);
         
         System.out.print("Masukan tinggi badan : ");
