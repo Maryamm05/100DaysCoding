@@ -9,8 +9,8 @@ public class day52 {
         int n = tes.nextInt();
 
         char nilai = (n >= 70 && n <= 75 || n > 85 ) ? 'A':
-                     ( n >= 60 && n <= 85 || n == 50) ? 'B' :
-                     (n < 60) ? 'C' : 'D' ;
+                     ( n >= 60 && n <= 85 || n == 50) ? 'B' : 'C';
+                   
         System.out.println("nilai akhirnya " + nilai);
             
    }
