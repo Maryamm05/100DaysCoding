@@ -16,7 +16,8 @@ public class day58 {
             X-=1;    
             }
         }
-    }
+    
         System.out.print("1");
+        }  
 }
 } 
