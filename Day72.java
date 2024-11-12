@@ -10,6 +10,6 @@ public class PenjumlahanRekursif {
     public static void main(String[] args) {
         int angka = 5;
         int hasil = hitungPenjumlahan(angka);
-        System.out.println("hasil);
+        System.out.println(hasil);
     }
 }
