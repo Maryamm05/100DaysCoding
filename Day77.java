@@ -7,18 +7,18 @@ public class day77 {
 
         int n = tes.nextInt();
         tes.nextLine();
-        int x = 0;
+        int X = 0;
 
         for (int i = 0; i < n; i++) {
         String a = tes.nextLine();
 
-            if (a.equals("++x")||a.equals("x++")){
-            x++;
-            }else if (a.equals("--x")||a.equals("x--")){
-             x--;
+            if (a.equals("++X")||a.equals("X++")){
+            X++;
+            }else if (a.equals("--X")||a.equals("X--")){
+             X--;
             }
         }
-        System.out.println(x);
+        System.out.println(X);
     }
 
 }
