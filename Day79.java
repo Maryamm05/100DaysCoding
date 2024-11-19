@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class Day79 {
 
     public static void main(String[] args) {
