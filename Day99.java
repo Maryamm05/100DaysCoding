@@ -13,7 +13,7 @@ public class day99 {
             for (int i = x; i <= y; i++) {
                 if(i % 2 == 0 ){
                     tampung += i; 
-                }else {
+                }else{
                     continue;
                 }
             }
